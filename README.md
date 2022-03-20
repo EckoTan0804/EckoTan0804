@@ -56,13 +56,23 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1280px_Markdown_with_White_Background.png/640px-1280px_Markdown_with_White_Background.png" alt="markdown" width="35" height="35" title="Markdown"/>  &nbsp; &nbsp;
 	<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="latex" width="35" height="35" title="LaTex"/>  &nbsp; &nbsp;
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="35" height="35" title="VSCode"/>
-
 </div>
 
 
 
-
 ### :fire: GitHub Stats
+<!---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eckotan0804&show_icons=true&locale=en&layout=compact&theme=dracula" alt="eckotan0804" /></p>
+-->
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eckotan0804&show_icons=true&locale=en&theme=dracula" alt="eckotan0804" /></p>
+
+
+
+
+
+
 
 
 [KIT]: https://www.kit.edu/english/index.php
