@@ -12,11 +12,11 @@
 
 ### Connect with me
 
-<p align="left">
-<a href="https://haobin-tan.netlify.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/1200px-Globe_icon.svg.png" alt="haobin-tan"  width="35" height="35"  title="Blog"/></a>
-<a href="https://linkedin.com/in/haobin-tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haobin-tan"  width="35" height="35" title="LinkedIn"/></a>
-<a href="https://twitter.com/eckooo_tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eckooo_tan" width="35" height="35" title="Twitter"/></a>
-</p>
+<div>
+<a href="https://haobin-tan.netlify.app/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/000/357/012/small/1__288_29.jpg" alt="haobin-tan"  width="35" height="35"  title="Blog"/></a> &nbsp; &nbsp;
+<a href="https://linkedin.com/in/haobin-tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haobin-tan"  width="35" height="35" title="LinkedIn"/></a> &nbsp; &nbsp;
+<a href="https://twitter.com/eckooo_tan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eckooo_tan" width="35" height="35" title="Twitter"/></a> &nbsp; &nbsp;
+</div>
 
 
 ### Skills
