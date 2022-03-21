@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I am a huge fan of the **Keep It Simple Stupid (KISS) principle** and the **Feynman technique**
 
 
-### Connect with me
+## Connect with me
 
 <div>
 <a href="https://haobin-tan.netlify.app/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/000/357/012/small/1__288_29.jpg" alt="haobin-tan"  width="30" height="30"  title="Blog"/></a> &nbsp; &nbsp;
@@ -19,9 +19,9 @@
 </div>
 
 
-### Skills
+## Skills
 
-#### Languages
+### Languages
 
 <div>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" title="Python"/>  &nbsp; &nbsp;
@@ -32,9 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" title="TypeScript"/>  &nbsp; &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="30" height="30" title="Haskell"/>&nbsp; &nbsp;
 </div>
-
-
-#### AI
+### AI
 
 <div>
 	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30" title="PyTorch"/>  &nbsp; &nbsp;
@@ -47,7 +45,7 @@
     <img src="https://external-preview.redd.it/Lpvr5-1iF6jgAoNuhn0T3C9IhDzNwxCvsSieESGpXS8.jpg?auto=webp&s=a9b5d6c78d5de779aec963a88a47c03b336f0a7d" alt="plotly" width="30" height="30" title="Ployly"/>
 </div>
 
-#### Others
+### Others
 
 <div>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" title="Linux"/>  &nbsp; &nbsp;
@@ -60,13 +58,13 @@
 
 
 
-### :fire: GitHub Stats
+## :fire: GitHub Stats
 <!---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eckotan0804&show_icons=true&locale=en&layout=compact&theme=dracula" alt="eckotan0804" /></p>
 -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eckotan0804&show_icons=true&locale=en&theme=dracula" alt="eckotan0804" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eckotan0804&show_icons=true&locale=en&theme=dracula" alt="eckotan0804" /></p>
 
 
 
