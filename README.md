@@ -32,6 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" title="TypeScript"/>  &nbsp; &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="30" height="30" title="Haskell"/>&nbsp; &nbsp;
 </div>
+
 ### AI
 
 <div>
